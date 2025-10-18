@@ -175,6 +175,7 @@ h2 {
 
 @media (min-width: 600px) {
   .landing-page {
+    background-color: #c5b7f6;
     display: flex;
     flex-direction: column;
     justify-content: center;
